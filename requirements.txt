@@ -1,0 +1,8 @@
+spacy
+wordcloud
+numpy
+pandas
+seaborn
+plotly
+matplotlib
+transformers
